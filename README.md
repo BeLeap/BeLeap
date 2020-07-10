@@ -1,2 +1,3 @@
-# beleap
-my profile
+# Biography
+
+* Computer Science & Engineering @ Korea Univ.
