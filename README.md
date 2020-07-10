@@ -5,10 +5,10 @@
 # Studying
 
 * web backend development
-  * node
-  * rust
+  * [node](https://nodejs.org/en/)
+  * [rust](https://www.rust-lang.org/)
 * web frontend development
-  * react.js
+  * [react.js](https://reactjs.org/)
 * security
 
 # Teams
