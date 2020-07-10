@@ -1,6 +1,6 @@
 # 🎞 Biography
 
-* Computer Science & Engineering @ Korea Univ.
+* Computer Science & Engineering @ [Korea Univ.](https://korea.edu)
 
 # 🏛 Participating Clubs
 
