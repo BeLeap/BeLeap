@@ -4,9 +4,9 @@
 
 # 🏛 Participating Clubs
 
-* [KUICS](kuics.korea.ac.kr)
-* [KWEB](kweb.korea.ac.kr)
-* [CAT&DOG](board.kucatdog.net)
+* [KUICS](https://kuics.korea.ac.kr)
+* [KWEB](https://kweb.korea.ac.kr)
+* [CAT&DOG](https://board.kucatdog.net)
 * KOSMOS
 
 # 📖 Currently Studying
