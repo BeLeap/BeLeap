@@ -11,7 +11,7 @@
 
 # Teams
 
-* KLUE
-* KUICS homepage renewal
-* KWEB hoempage renewal
+* [KLUE](https://klue.kr)
+* [KUICS homepage renewal](https://kuics.korea.ac.kr)
+* [KWEB hoempage renewal](https://kweb.korea.ac.kr)
 * INCOGNITO
