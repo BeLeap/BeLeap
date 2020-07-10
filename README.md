@@ -5,10 +5,14 @@
 # 📖 Currently Studying
 
 * Backend Development
-  * [Node.js](https://nodejs.org/en/)
+  * [Node.js](https://nodejs.org)
   * [Rust](https://www.rust-lang.org/)
 * Frontend Development
   * [React](https://reactjs.org/)
+* DevOps
+  * [Docker](https://www.docker.com/)
+  * [Kubernetes](https://kubernetes.io/)
+  * [AWS](https://aws.amazon.com/)
 * Security
 
 # 💻 Participating Teams
