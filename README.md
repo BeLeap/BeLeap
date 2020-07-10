@@ -14,6 +14,6 @@
 # 💻 Participating Teams
 
 * [KLUE](https://klue.kr)
-* [KUICS homepage renewal](https://kuics.korea.ac.kr)
-* [KWEB hoempage renewal](https://kweb.korea.ac.kr)
+* [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
+* [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
 * INCOGNITO
