@@ -2,6 +2,13 @@
 
 * Computer Science & Engineering @ Korea Univ.
 
+# 🏛 Participating Clubs
+
+* [KUICS](kuics.korea.ac.kr)
+* [KWEB](kweb.korea.ac.kr)
+* [CAT&DOG](board.kucatdog.net)
+* KOSMOS
+
 # 📖 Currently Studying
 
 * Backend Development
