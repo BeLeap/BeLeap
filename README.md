@@ -1,8 +1,8 @@
-# Biography
+# 🎞 Biography
 
 * Computer Science & Engineering @ Korea Univ.
 
-# Studying
+# 📖 Currently Studying
 
 * web backend development
   * [Node.js](https://nodejs.org/en/)
@@ -11,7 +11,7 @@
   * [React](https://reactjs.org/)
 * security
 
-# Teams
+# 💻 Participating Teams
 
 * [KLUE](https://klue.kr)
 * [KUICS homepage renewal](https://kuics.korea.ac.kr)
