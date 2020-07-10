@@ -7,6 +7,8 @@
 * web backend development
   * node
   * rust
+* web frontend development
+  * react.js
 * security
 
 # Teams
