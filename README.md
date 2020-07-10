@@ -4,12 +4,12 @@
 
 # 📖 Currently Studying
 
-* web backend development
+* Backend Development
   * [Node.js](https://nodejs.org/en/)
   * [Rust](https://www.rust-lang.org/)
-* web frontend development
+* Frontend Development
   * [React](https://reactjs.org/)
-* security
+* Security
 
 # 💻 Participating Teams
 
