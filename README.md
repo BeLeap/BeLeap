@@ -1,3 +1,5 @@
+[![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/beleap/github-readme-stats)
+
 # 🎞 Biography
 
 * [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
@@ -10,6 +12,8 @@
 * KOSMOS
 
 # 🪒Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap/github-readme-stats)
 
 ## Web Development
 
