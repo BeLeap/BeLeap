@@ -1,3 +1,9 @@
+Changseo Jang - BeLeap
+
+[![Instagram Badge](https://img.shields.io/badge/instagram-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jang_chang_seo)](https://www.instagram.com/jang_chang_seo)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/leap_be)](https://twitter.com/leap_be)
+[![Gamil Badge](https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:changseo_jang@korea.ac.kr)](mailto:changseo_jang@korea.ac.kr)
+
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
 # 🎞 Biography
