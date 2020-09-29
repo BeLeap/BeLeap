@@ -1,4 +1,4 @@
-[![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/beleap/github-readme-stats)
+[![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
 # 🎞 Biography
 
@@ -13,7 +13,7 @@
 
 # 🪒Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap)
 
 ## Web Development
 
