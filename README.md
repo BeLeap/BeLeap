@@ -6,6 +6,9 @@
 
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 🎞 Biography
 
 -   [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
