@@ -6,6 +6,8 @@
 
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 🎞 Biography
 
 -   [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
