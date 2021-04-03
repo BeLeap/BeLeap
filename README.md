@@ -45,7 +45,6 @@
 
 # 💻 Participating Teams
 
--   [Mealing](http://meali.ng)
 -   [KLUE](https://klue.kr)
 -   [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
 -   [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
