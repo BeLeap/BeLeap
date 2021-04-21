@@ -3,6 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jang_chang_seo)](https://www.instagram.com/jang_chang_seo)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/leap_be)](https://twitter.com/leap_be)
 [![Gamil Badge](https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:changseo_jang@korea.ac.kr)](mailto:changseo_jang@korea.ac.kr)
+![Discord Badge](https://img.shields.io/badge/Discord-BeLeap%231012-7289d9?style=flat-square&logo=Discord&logoColor=white)
 
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
@@ -10,42 +11,72 @@
 
 # 🎞 Biography
 
--   [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
+- [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 
 # 🏛 Participating Clubs
 
--   [KUICS](https://kuics.korea.ac.kr)
--   [KWEB](https://kweb.korea.ac.kr)
--   [CAT&DOG](https://board.kucatdog.net)
--   KOSMOS
+- [KUICS](https://kuics.korea.ac.kr)
+- [KWEB](https://kweb.korea.ac.kr)
+- [CAT&DOG](https://board.kucatdog.net)
+- KOSMOS
 
 # 🪒Languages and Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap)
 
-## Web Development
-
-<a href="https://aws.amazon.com"><img alt="aws" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" height="50px"/></a> <a href="https://babeljs.io/"><img alt="babel" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" height="50px"/></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img alt="css3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="50px"/></a> <a href="https://deno.land/"><img alt="deno" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" height="50px"/></a> <a href="https://eslint.org/"><img alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" height="50px"/></a> <a href="https://expressjs.com/"><img alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" height="50px"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="50px"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="50px"/></a> <a href="https://joi.dev/"><img alt="joi" src="https://joi.dev/img/joiLogo.jpg" height="50px"/></a> <a href="https://mochajs.org/"><img alt="mocha" src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" height="50px"/></a> <a href="https://www.mysql.com/"><img alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="50px"/></a> <a href="https://nextjs.org"><img alt="nextjs" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="50px"/></a> <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="50px"/></a> <a href="https://www.postgresql.org/"><img alt="postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="50px"></a> <a href="https://web.dev/progressive-web-apps/"><img alt="pwa" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" height="50px"/></a> <a href="https://reactjs.org/"><img alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50px"/></a> <a href="https://swagger.io/"><img alt="swagger" src="https://avatars2.githubusercontent.com/u/7658037?s=200&v=4" height="50px"/></a> <a href="https://avatars0.githubusercontent.com/u/20165699?s=200&v=4"><img alt="typeorm" src="https://avatars0.githubusercontent.com/u/20165699?s=200&v=4" height="50px"/></a> <a href="https://www.typescriptlang.org/"/><img alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="50px"/></a>
-
-## Game Development
-
-<a href="https://unity.com/"><img alt="unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" height="50px"/></a> <a href="https://www.unrealengine.com/en-US/?sessionInvalidated=true"><img alt="unreal engine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" height="50px"/></a>
-
-## Project Management
-
-<a href="https://git-scm.com/"><img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="50px"/></a> <a href="https://github.com"><img alt="github" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" height="50px"/></a>
-
-## Programming Language
-
-<img alt="c" src="/resource/c.png" height="50px"/> <a href="https://isocpp.org/"><img alt="cpp" src="/resource/cpp.png" height="50px"/></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="csharp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/300px-C_Sharp_logo.svg.png" height="50px"/></a> <a href="https://www.haskell.org/"><img alt="haskell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" height="50px"/></a> <a href="https://www.python.org/"><img alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="50px"/></a> <a href="https://www.rust-lang.org/"><img alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" height="50px"/></a>
-
-## MISC
-
-<a href="https://www.gnu.org/software/bash/"><img alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" height="50px"/></a> <a href="https://www.docker.com/"><img alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="50px"/></a> <a href="https://fishshell.com/"><img alt="fish" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" height="50px"/></a> <a href="https://www.linux.org/"><img alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="50px"/></a> <a href="https://neovim.io/"><img alt="neovim" src="https://avatars2.githubusercontent.com/u/6471485?s=200&v=4" height="50px"></a> <a href="https://www.vim.org/"><img alt="vim" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" height="50px"/></a> <a href="https://code.visualstudio.com/"><img alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="50px"/></a> <a href="https://www.microsoft.com/en-us/windows"><img alt="windows" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" height="50px"/></a>
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon%20AWS)
+![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=C)
+![CMake](https://img.shields.io/badge/CMake-black?style=flat-square&logo=CMake)
+![Codecov](https://img.shields.io/badge/Codecov-black?style=flat-square&logo=Codecov)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=C%2B%2B)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=C%20Sharp)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=GNU%20Bash)
+![Deno](https://img.shields.io/badge/Deno-black?style=flat-square&logo=Deno)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
+![Electron](https://img.shields.io/badge/Electron-black?style=flat-square&logo=Electron)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)
+![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=GitHub)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-black?style=flat-square&logo=Github%20Actions)
+![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
+![Haskell](https://img.shields.io/badge/Haskell-black?style=flat-square&logo=Haskell)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=Kotlin)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
+![LaTex](https://img.shields.io/badge/Latex-black?style=flat-square&logo=Latex)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown)
+![Mocha](https://img.shields.io/badge/Mocha-black?style=flat-square&logo=Mocha)
+![NeoVim](https://img.shields.io/badge/NeoVim-black?style=flat-square&logo=NeoVim)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
+![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=Sass)
+![Scala](https://img.shields.io/badge/Scala-black?style=flat-square&logo=Scala)
+![Styled-Component](https://img.shields.io/badge/styled‒components-black?style=flat-square&logo=styled-components)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=flat-square&logo=Swagger)
+![tmux](https://img.shields.io/badge/tmux-black?style=flat-square&logo=Tmux)
+![Travis CI](https://img.shields.io/badge/Travis%20CI-black?style=flat-square&logo=Travis%20CI)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=flat-square&logo=Unreal%20Engine)
+![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=Vim)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=flat-square&logo=Visual%20Studio)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=Visual%20Studio%20Code)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-black?style=flat-square&logo=WebAssembly)
+![Webpack](https://img.shields.io/badge/webpack-black?style=flat-square&logo=Webpack)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=flat-square&logo=Windows%20Terminal)
 
 # 💻 Participating Teams
 
--   [KLUE](https://klue.kr)
--   [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
--   [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
--   [INCOGNITO](https://www.facebook.com/incognitocon)
+- [KLUE](https://klue.kr)
+- [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
+- [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
+- [INCOGNITO](https://www.facebook.com/incognitocon)
