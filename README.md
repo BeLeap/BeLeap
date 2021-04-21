@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap)
 
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon%20AWS)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=flat-square&logo=Adobe%20XD)
 ![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=C)
@@ -36,7 +37,9 @@
 ![Deno](https://img.shields.io/badge/Deno-black?style=flat-square&logo=Deno)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker)
 ![Electron](https://img.shields.io/badge/Electron-black?style=flat-square&logo=Electron)
+![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=Expo)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express)
+![Figma](https://img.shields.io/badge/Figma-black?style=float-square&logo=Figma)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=GitHub)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-black?style=flat-square&logo=Github%20Actions)
