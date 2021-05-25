@@ -85,3 +85,4 @@
 - [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
 - [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
 - [INCOGNITO](https://www.facebook.com/incognitocon)
+- [Riiid](https://riiid.co)
