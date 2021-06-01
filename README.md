@@ -12,6 +12,7 @@
 # 🎞 Biography
 
 - [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
+- Backend Engineer @ [riiid](https://company.riiid.co)
 
 # 🏛 Participating Clubs
 
