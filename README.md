@@ -14,13 +14,6 @@
 - [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 - Backend Engineer @ [riiid](https://company.riiid.co)
 
-# 🏛 Participating Clubs
-
-- [KUICS](https://kuics.korea.ac.kr)
-- [KWEB](https://kweb.korea.ac.kr)
-- [CAT&DOG](https://board.kucatdog.net)
-- KOSMOS
-
 # 🪒Languages and Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap)
