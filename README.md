@@ -72,7 +72,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=flat-square&logo=Visual%20Studio)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat-square&logo=Visual%20Studio%20Code)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-black?style=flat-square&logo=WebAssembly)
-![Webpack](https://img.shields.io/badge/webpack-black?style=flat-square&logo=Webpack)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=flat-square&logo=Windows%20Terminal)
 
