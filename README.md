@@ -13,6 +13,7 @@
 
 - [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 - Backend Engineer @ [Riiid](https://company.riiid.co)
+- Software Engineer @ [Nearthlab](https://www.nearthlab.com/)
 
 # 🧰 Languages and Tools
 
@@ -75,11 +76,3 @@
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=flat-square&logo=Windows%20Terminal)
-
-# 💻 Participating Teams
-
-- [KLUE](https://klue.kr)
-- [KUICS Homepage Renewal](https://kuics.korea.ac.kr)
-- [KWEB Homepage Renewal](https://kweb.korea.ac.kr)
-- [INCOGNITO](https://www.facebook.com/incognitocon)
-- [Riiid](https://riiid.co)
