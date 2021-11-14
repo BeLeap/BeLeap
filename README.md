@@ -53,6 +53,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
 ![Mocha](https://img.shields.io/badge/Mocha-black?style=flat-square&logo=Mocha)
 ![NeoVim](https://img.shields.io/badge/NeoVim-black?style=flat-square&logo=NeoVim)
+![Nest.js](https://img.shields.io/badge/Nest.js-black?style=flat-square&logo=NestJs)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
