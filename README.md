@@ -18,4 +18,6 @@
 
 # 🧰 Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10)](https://github.com/BeLeap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10&exclude_repo=COSE434-ARCore-Project,Blowing-Tower)](https://github.com/anuraghazra/github-readme-stats)
+
+[![BeLeap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BeLeap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
