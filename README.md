@@ -7,6 +7,8 @@
 
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
+<a href="https://opgc.me/#/users/BeLeap" target="_blank"><img src="https://api.opgc.me/githubs/users/BeLeap/tag/?theme=basic" /></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BeLeap&margin-w=17&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🎞 Biography
