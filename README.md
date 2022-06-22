@@ -20,6 +20,4 @@
 
 # 🧰 Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeLeap&layout=compact&langs_count=10&exclude_repo=COSE434-ARCore-Project,Blowing-Tower)](https://github.com/anuraghazra/github-readme-stats)
-
-[![BeLeap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BeLeap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="700rem" src=https://wakatime.com/share/@BeLeap/bf8d096d-891a-4ea9-9de1-603a25e3f1c6.svg></img>
