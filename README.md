@@ -15,8 +15,8 @@ Currently,
 - [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 
 Formerly,
-- Backend Engineer @ [Riiid](https://company.riiid.co)
 - Software Engineer @ [Nearthlab](https://www.nearthlab.com/)
+- Backend Engineer @ [Riiid](https://company.riiid.co)
 
 # 🧰 Languages and Tools
 
