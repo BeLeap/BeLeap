@@ -10,9 +10,9 @@
 # 🎞 Biography
 
 Currently,
-- [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
-- Backend Developer @ [KLUE](https://klue.kr)
 - ML Engineer @ [Minds Lab](https://mindslab.ai:8080/en/company)
+- Backend Developer @ [KLUE](https://klue.kr)
+- [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 
 Formerly,
 - Backend Engineer @ [Riiid](https://company.riiid.co)
