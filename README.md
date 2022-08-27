@@ -10,11 +10,12 @@
 # 🎞 Biography
 
 Currently,
-- ML Engineer @ [Minds Lab](https://mindslab.ai:8080/en/company)
+- DevOps Engineer @ [Riiid](https://riiid.com)
 - Backend Developer @ [KLUE](https://klue.kr)
 - [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
 
 Formerly,
+- ML Engineer @ [Minds Lab](https://mindslab.ai:8080/en/company)
 - Software Engineer @ [Nearthlab](https://www.nearthlab.com/)
 - Backend Engineer @ [Riiid](https://company.riiid.co)
 
