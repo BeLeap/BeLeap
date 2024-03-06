@@ -6,17 +6,6 @@
 
 [![BeLeap's github stats](https://github-readme-stats.vercel.app/api?username=BeLeap&count_private=true&show_icons=true)](https://github.com/BeLeap)
 
-# 🎞 Biography
-
-Currently,
-- DevOps Engineer @ [Riiid](https://riiid.com)
-- Backend Developer @ [KLUE](https://klue.kr)
-- [Computer Science & Engineering](https://cs.korea.edu) @ [Korea Univ.](https://korea.edu)
-
-Formerly,
-- Software Engineer @ [Nearthlab](https://www.nearthlab.com/)
-- Backend Engineer @ [Riiid](https://company.riiid.co)
-
 # 🧰 Languages and Tools
 
 <img width="700rem" src=https://wakatime.com/share/@BeLeap/bf8d096d-891a-4ea9-9de1-603a25e3f1c6.svg></img>
